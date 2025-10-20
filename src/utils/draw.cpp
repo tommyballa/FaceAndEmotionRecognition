@@ -1,4 +1,3 @@
-//Spicoli Piersilvio
 
 #include "draw.h"
 using namespace cv;
