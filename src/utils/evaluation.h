@@ -1,4 +1,3 @@
-//Tommaso Ballarin
 
 #ifndef EVALUATION_H
 #define EVALUATION_H
