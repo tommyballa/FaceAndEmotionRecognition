@@ -1,4 +1,3 @@
-// Author: Jacopo Onorati
 
 /*
  *  Pre-processing of images containing ROIs, mapping of class ID to the corresponding emotion
