@@ -1,6 +1,6 @@
 # Face Detection and Emotion Recognition
 
-**Authors:** Ballarin Tommaso, Onorati Jacopo, Spicoli Piersilvio
+**Authors:** Ballarin Tommaso
 
 ## Goal
 The application takes static images in input. The aim is to detect a face for each person that is represented and, in addition, the interpretation of the facial expression emotion choosing between seven emotions: happy, sad, angry, disgust, surprise, fear, neutral. The detection is performed using the well-known Viola-Jones algorithm while the emotion recognition exploits a custom CNN model.
