@@ -1,4 +1,3 @@
-// Author: Jacopo Onorati
 
 #include <opencv2/opencv.hpp>
 
